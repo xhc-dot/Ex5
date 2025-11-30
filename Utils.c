@@ -1,4 +1,4 @@
 #include <stdio.h>
 void printInfo() {
-    printf("This is a C project (version 2.0). \n"); // 修改内容
+    printf("Hello Conflict Ex5!（成员A修改）"); // 修改内容
 }
