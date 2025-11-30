@@ -17,7 +17,6 @@ int main()
            local_time->tm_min,
            local_time->tm_sec);
 
-    printf("Hello Git!\n");//修改：问候
     printInfo(); // 新增：调用工具函数
 
     return 0;
